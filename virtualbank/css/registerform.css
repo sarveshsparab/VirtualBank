@@ -1,0 +1,112 @@
+
+body {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-size: cover;
+}
+.bg-cyan {
+	background-image: url(../img/bg-cyan.jpg);
+}
+
+.suck {
+	color: green;
+}
+.registration_form {
+	margin:0 auto;
+	width:500px;
+	padding:14px;
+}
+label {
+	width: 10em;
+	float:left;
+	margin-right: 0.5em;
+	display: block;
+	color:#3f3f3f;
+}
+.submit {
+	float:right;
+}
+fieldset {
+	background:#cdcdcd none repeat scroll 0 0;
+	border:2px solid #6e6e6e;
+	width: 500px;
+}
+legend {
+	color: #fff;
+	background: #333333;
+	border: 1px solid #1c1c1c;
+	padding: 1px 6px
+}
+.elements {
+	padding:10px;
+}
+p {
+	
+	color:#666666;
+	font-size:11px;
+	margin-bottom:20px;
+	padding-bottom:10px;
+}
+.topic{
+	border-bottom:1px solid #848484;
+	color:#666666;
+	font-size:20px;
+	margin-bottom:20px;
+	padding-bottom:10px;
+	color:#333333;
+	}
+
+hr{
+     color:blue;
+}	 
+	
+a{
+    color:#0099FF;
+font-weight:bold;
+}
+
+/* Box Style */
+
+
+ .success, .warning, .errormsgbox, .validation {
+	border: 1px solid;
+	margin: 0 auto;
+	padding:10px 20px 10px 20px;
+	background-repeat: no-repeat;
+	background-position: 10px center;
+     font-weight:bold;
+     width:500px;
+	 text-align:center
+     
+}
+
+.success {
+   
+	color: #376ef2;
+	background-color: #d6d5d5;
+}
+.warning {
+
+	color: #9F6000;
+	background-color: #FEEFB3;
+	background-image: url('images/warning.png');
+}
+.errormsgbox {
+ 
+	color: #D8000C;
+	background-color: #FFBABA;
+	background-image: url('images/error.png');
+	
+}
+.validation {
+ 
+	color: #D63301;
+	background-color: #FFCCBA;
+	background-image: url('images/error.png');
+}
+
+
+
+
+
+
